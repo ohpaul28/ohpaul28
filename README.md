@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dustin but I go by Paul!
+- 👋 Hi, I’m Paul!
 - 🌱 I’m currently learning to become a software engineer through App Academy.
 - 📫 How to reach me:
     -dustin.paul.oh@gmail.com
