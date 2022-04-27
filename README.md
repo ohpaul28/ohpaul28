@@ -9,4 +9,4 @@ My mom used to always tell me I was born holding a keyboard so this played out p
 
 
 
-[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohpaul28&theme=dracula)](https://github.com/ohpaul28/github-readme-stats)
+[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohpaul28&theme=gruvbox)](https://github.com/ohpaul28/github-readme-stats)
