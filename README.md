@@ -1,11 +1,5 @@
 I'm Paul and I know that pressing keys harder makes the action happen faster and more efficiently. 
-
 My mom used to always tell me I was born holding a keyboard so this played out pretty well.
-
-
-
-
-
 
 
 
