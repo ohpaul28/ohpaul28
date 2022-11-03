@@ -19,10 +19,6 @@ My mom used to always tell me I was born holding a keyboard so this played out p
 
 ## Free Time Hobbies
 - Petting my dogs
-- World of Warcraft Classic
-- Team Fight Tactics
-- Petting my dogs
-- And petting my dogs
 
 <img src="https://i.imgur.com/U44l0NV.jpg?1" style="height: 180px; width: 150px;"><img src="https://i.imgur.com/a1HNzNR.jpg?1" style="height: 180px; width: 150px;">
 
